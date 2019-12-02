@@ -3,9 +3,9 @@ Educated Temporal Prediction (ETP) is a robust algorithm that learns statistical
 The code conceptualized by Ivan Alekseichuk, implemented by Sina Shirinpour.
 
 To use:
-1) Run
+1) Run ...
 
 The following parameters need to be specified in the scripts:
 
 In Closed_Loop_ETP_train.m:
-1)
+1) Variable ...
