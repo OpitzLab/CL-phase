@@ -2,7 +2,7 @@
 Matlab Codes for resting-state EEG recording and 3 methods of real-time EEG phase estimation for closed-loop EEG-TMS: 
 1) Autoregression-based prediction (AR),
 2) FFT-based prediction (FFT), and
-3) Educated Temporal Predictior (ETP).
+3) Educated Temporal Prediction (ETP).
 
 Real-time EEG data acuisition is done using LSL (https://github.com/sccn/labstreaminglayer). 
 Triggers to the TMS machine are delivered from the parallel port on the PC using InpOutx64 DLL (http://www.highrez.co.uk/downloads/inpout32/).
