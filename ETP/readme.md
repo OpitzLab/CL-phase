@@ -10,12 +10,12 @@ The code conceptualized by Ivan Alekseichuk, implemented by Sina Shirinpour.
 ## Parameters
 The following parameters need to be specified in the scripts, depending on the hardware, desired brain region, and the band of interest:
 
-#### In ETP_AutoCorrect_edge.m
+### In ETP_AutoCorrect_edge.m
 - targetFreq = [Bounds of the band of interest in Hz];
 - srate = Sampling rate in Hz;
 - elec_interest = ['Electrode of interest' 'Surrounding electrodes'];
 
-#### In Closed_Loop_ETP.m
+### In Closed_Loop_ETP.m
 - targetFreq = [Bounds of the band of interest in Hz];
 - elec_interest = ['Electrode of interest' 'Surrounding electrodes'];
 - fnative = Acquisition sampling rate;
