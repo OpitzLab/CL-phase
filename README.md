@@ -11,4 +11,4 @@ The code runs in MATLAB (MathWorks) 2014b+ and requires the FieldTrip toolbox (h
 For more information, refer to Shirinpour et al., Experimental Evaluation of Methods for Real-Time EEG 
 Phase-Specific Transcranial Magnetic Stimulation, 2019, bioRxiv, doi: https://doi.org/10.1101/860874
 
-Correspondance: shiri008 -at- umn.edu (Sina Shirinpour), aopitz -at- umn.edu (Alex Opitz)
+Correspondence: shiri008 -at- umn.edu (Sina Shirinpour), aopitz -at- umn.edu (Alex Opitz)
